@@ -9,6 +9,7 @@ A habit tracker based on the principles covered in James Clear's book "Atomic Ha
 - Habit Stacking
 - Habit Scorecard
 - CBE Calculator
+- Daily Habit Schedule
 
 # What am I working on right now?
 The CBE Calculator
