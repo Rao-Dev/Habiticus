@@ -1,11 +1,12 @@
 //import 'dart:math';
 
 void main() {
-  var posAtt = 34; //Positive Attempts
-  var negAtt = 5; //Negative Attempts
-  var totCyc = 33; //Total Number in Cycle
+  var posAtt = 8; //Positive Attempts
+  var negAtt = 7; //Negative Attempts
+  var totCyc = 15; //Total Number in Cycle
   var cbeScore = cbeCalc(posAtt,negAtt,totCyc); //Actual CBE Score
   var cbeScoreImp = cbeImpScore(cbeCalc(posAtt,negAtt,totCyc)); //CBE Target Score
+  var cbeRecImp = cbeImpRec(cbeScore, cbeScoreImp);
   
 print("Your CBE Score: $cbeScore");
 print("What your score should be next cycle: $cbeScoreImp");
@@ -24,10 +25,15 @@ double cbeCalc(var posAtt, var negAtt, var totCyc){
 }
 
 //CBE Improvment Score Calculator
-double cbeImpScore(double cbe){
+double cbeImpScore(var cbe){
   var cbeImp = cbe*1.01;
   var cbeImpFin = cbeImp.roundToDouble();
   return cbeImpFin;
 }
 
-//CBE Improvment Tutorial
+//CBE Improvment Reccomendation
+double cbeImpRec(var cbeOG, var cbeTarg){
+  
+  
+  return 12;
+}
