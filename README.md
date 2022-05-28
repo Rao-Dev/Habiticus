@@ -11,5 +11,6 @@ A habit tracker based on the principles covered in James Clear's book "Atomic Ha
 - CBE Calculator
 - Daily Habit Schedule
 
-# What am I working on right now?- https://rubinrao.notion.site/Habiticus-3ec54591a2984379a62e3d1c90d31406
-The CBE Calculator
+# What am I working on right now?
+**The CBE Calculator**
+- Notion Page: https://rubinrao.notion.site/Habiticus-3ec54591a2984379a62e3d1c90d31406
