@@ -6,7 +6,6 @@ A habit tracker based on the principles covered in James Clear's book "Atomic Ha
   - Based on the Martin System (+, -, o)
   - Includes time-based habits (i.e. Time spent meditating)
 - Implementation Intention
-  - I will [BEHAVIOR] at [TIME] in [LOCATION].
 - Habit Stacking
 - Habit Scorecard
 - CBE Calculator
